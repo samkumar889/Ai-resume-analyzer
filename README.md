@@ -13,8 +13,4 @@
 - Tailwind CSS
 - PostgreSQL
 
-## Screenshots
 
-## Installation
-
-## Live Demo
